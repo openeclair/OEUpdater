@@ -3,27 +3,27 @@
 	<string name="app_name">OE Updater</string>
 	<!-- About Strings -->
 	<string name="about_comments">Auto-updater for the OpenEclair Android OS based on the CM-Updater.</string>
-	<string name="about_credits">Thanks to Sergi Vélez for the original JFUpdater.\nThread Starter: garok89 - Ross McAusland\nProgrammer: FireFart - Christian Mehlmauer\nProgrammer: senab - Chris Banes\nGraphics: prash\nGraphics: matt_stang\nBeta-Testers: willmav5000, tuxfoo, DirectMatrix, amarkow2\nAnd big thanks to all the guys @ XDA for the translations and other stuff ;)\n\nBig thanks to the OE team for their superb builds!\n\n</string>
+	<string name="about_credits">Thanks to Sergi Vélez for the original JFUpdater.\nThread Starter: garok89 - Ross McAusland\nProgrammer: FireFart - Christian Mehlmauer\nProgrammer: senab - Chris Banes\nGraphics: prash\nGraphics: periferral\nGraphics: matt_stang\nBeta-Testers: willmav5000, tuxfoo, DirectMatrix, amarkow2\nBig thanks to Simon, Allen, and the entire AndroidSPIN crew\n\nOpenEclair Team:\nWes Garner\nChris Soyars\n\n</string>
 	<string name="about_copyright">Copyright © 2009 Sergi Vélez</string><!-- Add your name here, separated with comma's, if you helped out --> 
-	<string name="about_website_label">OE Updater at Google Code</string> 
-	<string name="about_website_url">http://code.google.com/p/openeclair-updater/</string>
-	<string name="about_email">http://forum.xda-developers.com/showthread.php?t=654534</string>
+	<string name="about_website_label">OpenEclair Homepage</string> 
+	<string name="about_website_url">http://code.google.com/p/openeclair</string>
+	<string name="about_email">openeclair@gmail.com</string>
 
 	<!-- Config Strings -->
 	<string name="conf_update_server_url_def">http://cloud.github.com/downloads/openeclair/vendor/update_file.json</string>
 	<string name="conf_update_folder">oeupdater/updates</string>
 	<string name="conf_theme_version_file_def">/system/framework/themes.theme</string>
-	<string name="conf_changelog_url">http://openeclair-updater.googlecode.com/files/changelog.xml</string>
-	<string name="conf_featured_themes_url">http://openeclair-updater.googlecode.com/files/FeaturedThemes.xml</string>
+	<string name="conf_changelog_url">http://cloud.github.com/downloads/openeclair/vendor/changelog.xml</string>
+	<string name="conf_featured_themes_url">http://cloud.github.com/downloads/openeclair/vendor/FeaturedThemes.xml</string>
 	
 	<!-- About dialog -->
 	<string-array name="about_authors">
-        	<item>Sergi Vélez http://code.google.com/p/jfupdater</item>
+        	<item>Sergi Vélez</item>
         	<item>Darkrift http://android-dls.com</item>
         	<item>Dan Poulsen</item>
 		<item>FireFart</item>
 		<item>senab</item>
-		<item>Wes Garner</item>
+		<item>Wes Garner http://twitter.com/wesgarner</item>
 	</string-array>
     
 	<string-array name="about_translators">
@@ -44,6 +44,7 @@
 
 	<string-array name="about_artists">
 		<item>prash</item>
+		<item>periferral</item>
 		<item>matt_stang</item>
 	</string-array>
 </resources>
