@@ -1,0 +1,2 @@
+package openeclairupdaterapp.customTypes;
+parcelable UpdateInfo;

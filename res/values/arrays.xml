@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Frequency times, in seconds -->
+	<string-array name="update_frequency">
+		<item>Manual</item>
+		<item>Every boot</item>
+		<item>Every hour</item>
+		<item>Every day</item>
+		<item>Every week</item>
+	</string-array>
+</resources>
