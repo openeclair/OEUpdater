@@ -10,7 +10,7 @@
 	<string name="about_email">openeclair@gmail.com</string>
 
 	<!-- Config Strings -->
-	<string name="conf_update_server_url_def">http://cloud.github.com/downloads/openeclair/vendor/update_file.json</string>
+	<string name="conf_update_server_url_def">http://github.com/openeclair/vendor/raw/master/prebuilt/common/update_file.json</string>
 	<string name="conf_update_folder">oeupdater/updates</string>
 	<string name="conf_theme_version_file_def">/system/framework/themes.theme</string>
 	<string name="conf_changelog_url">http://cloud.github.com/downloads/openeclair/vendor/changelog.xml</string>
