@@ -1,0 +1,38 @@
+{
+    "MirrorList": [
+	"http://www.androidspin.com/downloads.php?dir=openteam/ROM/",
+        "http://openeclair-updater.googlecode.com/files/"
+],
+    "UpdateList": [
+	{
+            "mod": "ADP1",
+            "board": "trout|sapphire",
+            "type": "rom",
+            "name": "OpenEclair-v1.2.2-CFSRHack",
+            "version": "1.2.2",
+            "description": "OpenEclair v1.2.2 using CFS Scheduler with 10mb RAM Hack",
+            "branch": "S",
+            "filename": "OpenEclair-v1.2.2-CFSRHack.zip"
+        },
+	{
+            "mod": "ADP1",
+            "board": "trout|sapphire",
+            "type": "rom",
+            "name": "OpenEclair-v1.1",
+            "version": "1.1",
+            "description": "",
+            "branch": "S",
+            "filename": "OpenEclair-v1.1-STABLE.zip"
+        },
+	{
+            "mod": "ADP1",
+            "board": "trout|sapphire",
+            "type": "rom",
+            "name": "OpenEclair-v1.0",
+            "version": "1.0",
+            "description": "",
+            "branch": "S",
+            "filename": "OpenEclair-v1.0.zip"
+        }
+    ]
+}
