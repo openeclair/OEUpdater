@@ -13,7 +13,7 @@
             "description": "OpenEclair v1.3 with multiple kernels ,3D Support and Ram Hack",
             "branch": "S",
             "filename": "OpenEclair-v1.3.0.1-Main.zip"
-        }
+        },
 	{
             "mod": "ADP1",
             "board": "trout|sapphire",
