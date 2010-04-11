@@ -18,7 +18,7 @@
 	
 	<!-- About dialog -->
 	<string-array name="about_authors">
-        	<item>Sergi Vélez</item>
+        	<item>Sergi Vélez http://code.google.com/p/jfupdater</item>
         	<item>Darkrift http://android-dls.com</item>
         	<item>Dan Poulsen</item>
 		<item>FireFart</item>
