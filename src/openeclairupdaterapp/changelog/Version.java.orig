@@ -1,0 +1,19 @@
+<<<<<<< HEAD:src/cmupdaterapp/changelog/Version.java
+package openeclairupdaterapp.changelog;
+=======
+package cmupdaterapp.changelog;
+>>>>>>> cf5972ef05285e0ca2d7fe4313a40a8c72e91942:src/cmupdaterapp/changelog/Version.java
+
+import java.util.LinkedList;
+import java.util.List;
+
+public class Version
+{
+	public String Version;
+	public List<String> ChangeLogText;
+	Version()
+	{
+		Version = "";
+		ChangeLogText = new LinkedList<String>();
+	}
+}

@@ -1,0 +1,17 @@
+<<<<<<< HEAD:src/cmupdaterapp/customExceptions/NotEnoughSpaceException.java
+package openeclairupdaterapp.customExceptions;
+=======
+package cmupdaterapp.customExceptions;
+>>>>>>> cf5972ef05285e0ca2d7fe4313a40a8c72e91942:src/cmupdaterapp/customExceptions/NotEnoughSpaceException.java
+
+public class NotEnoughSpaceException extends Exception
+{
+	private static final long serialVersionUID = 658447306729869141L;
+
+	public NotEnoughSpaceException() {}
+
+	public NotEnoughSpaceException(String msg)
+	{
+		super(msg);
+	}
+}

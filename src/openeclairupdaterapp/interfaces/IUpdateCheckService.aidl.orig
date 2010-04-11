@@ -1,0 +1,14 @@
+<<<<<<< HEAD:src/cmupdaterapp/interfaces/IUpdateCheckService.aidl
+package openeclairupdaterapp.interfaces;
+import openeclairupdaterapp.interfaces.IUpdateCheckServiceCallback;
+=======
+package cmupdaterapp.interfaces;
+import cmupdaterapp.interfaces.IUpdateCheckServiceCallback;
+>>>>>>> cf5972ef05285e0ca2d7fe4313a40a8c72e91942:src/cmupdaterapp/interfaces/IUpdateCheckService.aidl
+
+interface IUpdateCheckService
+{    
+    void checkForUpdates();
+    void registerCallback(in IUpdateCheckServiceCallback cb);
+    void unregisterCallback(in IUpdateCheckServiceCallback cb);
+}

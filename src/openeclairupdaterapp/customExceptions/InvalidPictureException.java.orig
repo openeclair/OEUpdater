@@ -1,0 +1,17 @@
+<<<<<<< HEAD:src/cmupdaterapp/customExceptions/InvalidPictureException.java
+package openeclairupdaterapp.customExceptions;
+=======
+package cmupdaterapp.customExceptions;
+>>>>>>> cf5972ef05285e0ca2d7fe4313a40a8c72e91942:src/cmupdaterapp/customExceptions/InvalidPictureException.java
+
+public class InvalidPictureException extends Exception
+{
+	private static final long serialVersionUID = 1882894870160464818L;
+
+	public InvalidPictureException() {}
+
+	public InvalidPictureException(String msg)
+	{
+		super(msg);
+	}
+}

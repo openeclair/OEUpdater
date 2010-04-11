@@ -1,0 +1,22 @@
+<<<<<<< HEAD:res/values-de/arrays.xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="update_frequency">
+        <item>Manuell</item>
+        <item>Bei jedem Start</item>
+        <item>Jede Stunde</item>
+        <item>Jeden Tag</item>
+        <item>Jede Woche</item>
+    </string-array>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="update_frequency">
+        <item>Manuell</item>
+        <item>Bei jedem Start</item>
+        <item>Jede Stunde</item>
+        <item>Jeden Tag</item>
+        <item>Jede Woche</item>
+    </string-array>
+>>>>>>> cf5972ef05285e0ca2d7fe4313a40a8c72e91942:res/values-de/arrays.xml
+</resources>

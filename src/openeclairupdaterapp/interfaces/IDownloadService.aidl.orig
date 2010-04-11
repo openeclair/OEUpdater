@@ -1,0 +1,21 @@
+<<<<<<< HEAD:src/cmupdaterapp/interfaces/IDownloadService.aidl
+package openeclairupdaterapp.interfaces;
+import openeclairupdaterapp.customTypes.UpdateInfo;
+import openeclairupdaterapp.interfaces.IDownloadServiceCallback;
+=======
+package cmupdaterapp.interfaces;
+import cmupdaterapp.customTypes.UpdateInfo;
+import cmupdaterapp.interfaces.IDownloadServiceCallback;
+>>>>>>> cf5972ef05285e0ca2d7fe4313a40a8c72e91942:src/cmupdaterapp/interfaces/IDownloadService.aidl
+
+interface IDownloadService
+{    
+    void Download(in UpdateInfo ui);
+    UpdateInfo getCurrentUpdate();
+    String getCurrentMirrorName();
+    boolean DownloadRunning();
+    boolean PauseDownload();
+    boolean cancelDownload();
+    void registerCallback(in IDownloadServiceCallback cb);
+    void unregisterCallback(in IDownloadServiceCallback cb);
+}

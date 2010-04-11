@@ -1,0 +1,16 @@
+<<<<<<< HEAD:src/cmupdaterapp/customTypes/ThemeInfo.java
+package openeclairupdaterapp.customTypes;
+=======
+package cmupdaterapp.customTypes;
+>>>>>>> cf5972ef05285e0ca2d7fe4313a40a8c72e91942:src/cmupdaterapp/customTypes/ThemeInfo.java
+
+public class ThemeInfo
+{		
+	public String name;
+	public String version;
+	@Override
+	public String toString()
+	{
+		return name;
+	}
+}

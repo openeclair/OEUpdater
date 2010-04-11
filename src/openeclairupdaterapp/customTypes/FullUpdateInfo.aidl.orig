@@ -1,0 +1,6 @@
+<<<<<<< HEAD:src/cmupdaterapp/customTypes/FullUpdateInfo.aidl
+package openeclairupdaterapp.customTypes;
+=======
+package cmupdaterapp.customTypes;
+>>>>>>> cf5972ef05285e0ca2d7fe4313a40a8c72e91942:src/cmupdaterapp/customTypes/FullUpdateInfo.aidl
+parcelable FullUpdateInfo;
