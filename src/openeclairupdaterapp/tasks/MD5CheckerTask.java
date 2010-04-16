@@ -1,5 +1,7 @@
 package openeclairupdaterapp.tasks;
 
+import org.openeclair.update.R;
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -16,7 +18,6 @@ import openeclairupdaterapp.misc.Constants;
 import openeclairupdaterapp.misc.Log;
 import openeclairupdaterapp.ui.ApplyUpdateActivity;
 import openeclairupdaterapp.ui.MainActivity;
-import openeclairupdaterapp.ui.R;
 import openeclairupdaterapp.utils.MD5;
 
 public class MD5CheckerTask extends AsyncTask<File, Void, Boolean>

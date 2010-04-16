@@ -1,5 +1,7 @@
 package openeclairupdaterapp.ui;
 
+import org.openeclair.update.R;
+
 import java.net.URI;
 import java.util.LinkedList;
 
@@ -10,7 +12,7 @@ import openeclairupdaterapp.featuredThemes.FeaturedThemes;
 import openeclairupdaterapp.listadapters.ThemeListAdapter;
 import openeclairupdaterapp.misc.Constants;
 import openeclairupdaterapp.misc.Log;
-import openeclairupdaterapp.ui.R;
+import org.openeclair.update.R;
 import openeclairupdaterapp.utils.Preferences;
 import android.app.AlertDialog;
 import android.app.ListActivity;

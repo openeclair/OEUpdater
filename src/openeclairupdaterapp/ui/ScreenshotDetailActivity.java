@@ -1,5 +1,7 @@
 package openeclairupdaterapp.ui;
 
+import org.openeclair.update.R;
+
 import openeclairupdaterapp.customExceptions.InvalidPictureException;
 import openeclairupdaterapp.misc.Constants;
 import android.app.Activity;

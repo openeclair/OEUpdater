@@ -1,5 +1,7 @@
 package openeclairupdaterapp.ui;
 
+import org.openeclair.update.R;
+
 import com.google.zxing.integration.android.IntentIntegrator;
 import com.google.zxing.integration.android.IntentResult;
 

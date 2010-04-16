@@ -1,5 +1,7 @@
 package openeclairupdaterapp.utils;
 
+import org.openeclair.update.R;
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -17,7 +19,6 @@ import openeclairupdaterapp.customization.Customization;
 import openeclairupdaterapp.database.DbAdapter;
 import openeclairupdaterapp.misc.Constants;
 import openeclairupdaterapp.misc.Log;
-import openeclairupdaterapp.ui.R;
 import android.app.Activity;
 import android.content.Context;
 import android.content.SharedPreferences;

@@ -92,6 +92,6 @@ public class Constants
 	//Screenshots
 	public static final String SCREENSHOTS_UPDATE = "Screenshots";
 	public static final int SCREENSHOTS_FALLBACK_IMAGE = android.R.drawable.ic_delete;
-	public static final int SCREENSHOTS_LOADING_IMAGE = openeclairupdaterapp.ui.R.drawable.cmu_loading;
+	public static final int SCREENSHOTS_LOADING_IMAGE = org.openeclair.update.R.drawable.cmu_loading;
 	public static final String SCREENSHOTS_POSITION = "ScreenshotPosition";
 }

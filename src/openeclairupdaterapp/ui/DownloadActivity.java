@@ -2,6 +2,8 @@ package openeclairupdaterapp.ui;
 
 import java.io.Serializable;
 
+import org.openeclair.update.R;
+
 import openeclairupdaterapp.customTypes.DownloadProgress;
 import openeclairupdaterapp.customTypes.UpdateInfo;
 import openeclairupdaterapp.interfaces.IDownloadService;

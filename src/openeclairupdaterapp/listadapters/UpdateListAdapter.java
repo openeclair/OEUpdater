@@ -4,7 +4,7 @@ import java.util.List;
 
 import openeclairupdaterapp.customTypes.UpdateInfo;
 import openeclairupdaterapp.misc.Constants;
-import openeclairupdaterapp.ui.R;
+import org.openeclair.update.R;
 
 import android.content.Context;
 import android.view.LayoutInflater;

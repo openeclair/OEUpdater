@@ -1,5 +1,7 @@
 package openeclairupdaterapp.ui;
 
+import org.openeclair.update.R;
+
 import android.content.Intent;
 import android.content.res.Resources;
 import android.media.RingtoneManager;

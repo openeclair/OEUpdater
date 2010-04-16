@@ -1,5 +1,7 @@
 package openeclairupdaterapp.ui;
 
+import org.openeclair.update.R;
+
 import openeclairupdaterapp.customTypes.Screenshot;
 import openeclairupdaterapp.customTypes.UpdateInfo;
 import openeclairupdaterapp.listadapters.ScreenshotGridViewAdapter;

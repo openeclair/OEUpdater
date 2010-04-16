@@ -1,5 +1,8 @@
 package openeclairupdaterapp.ui;
 
+
+import org.openeclair.update.R;
+
 import java.io.File;
 import java.io.FilenameFilter;
 import java.io.IOException;

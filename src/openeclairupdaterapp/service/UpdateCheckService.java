@@ -32,7 +32,7 @@ import openeclairupdaterapp.misc.Constants;
 import openeclairupdaterapp.misc.Log;
 import openeclairupdaterapp.misc.State;
 import openeclairupdaterapp.ui.MainActivity;
-import openeclairupdaterapp.ui.R;
+import org.openeclair.update.R;
 import openeclairupdaterapp.utils.Preferences;
 import openeclairupdaterapp.utils.StringUtils;
 import openeclairupdaterapp.utils.SysUtils;

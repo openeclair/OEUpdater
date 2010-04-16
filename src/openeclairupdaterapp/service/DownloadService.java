@@ -1,5 +1,7 @@
 package openeclairupdaterapp.service;
 
+import org.openeclair.update.R;
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileWriter;
@@ -31,7 +33,6 @@ import openeclairupdaterapp.misc.Log;
 import openeclairupdaterapp.ui.ApplyUpdateActivity;
 import openeclairupdaterapp.ui.DownloadActivity;
 import openeclairupdaterapp.ui.MainActivity;
-import openeclairupdaterapp.ui.R;
 import openeclairupdaterapp.utils.MD5;
 import openeclairupdaterapp.utils.Preferences;
 import openeclairupdaterapp.utils.SysUtils;
